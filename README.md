@@ -29,7 +29,35 @@
 <!-- เส้นแสงเลเซอร์วิ่งแบ่งโซน -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 3. คลังแสงอาวุธเทคโนโลยี (CYBER ARSENAL) -->
+<!-- 3. หน้าต่างจำลองระบบปฏิบัติการ (SYSTEM SPEC / NEOFETCH TERMINAL) -->
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <h3>⚡ System.out.println("About Me");</h3>
+      <p>นักพัฒนาซอฟต์แวร์ที่หลงใหลในการสร้างสรรค์เทคโนโลยีสมัยใหม่ ชอบเรียนรู้สิ่งใหม่ๆ และแก้ปัญหาที่ซับซ้อนด้วยโค้ดที่สะอาดและมีประสิทธิภาพ</p>
+      <ul>
+        <li>🔭 <b>Current Project:</b> [ชื่อโปรเจกต์ที่กำลังลุยอยู่]</li>
+        <li>🌱 <b>Leveling Up:</b> [สิ่งที่กำลังเรียน เช่น AI, Cloud, Next.js]</li>
+        <li>💬 <b>Ask Me About:</b> [สิ่งที่ถนัด เช่น Web Dev, Python, API]</li>
+        <li>🎯 <b>2026 Goal:</b> สร้างโปรเจกต์ Open Source ที่ใช้งานได้จริง</li>
+        <li>⚡ <b>Fun Fact:</b> บั๊กมักจะหายไปเองตอนกำลังจะเปิดให้คนอื่นดู 🐛</li>
+      </ul>
+    </td>
+    <td width="38%" align="center">
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+        💠 <b>Mission Directive:</b> เปลี่ยนไอเดียที่ซับซ้อนให้กลายเป็นระบบที่ทรงพลัง รวดเร็ว และเสถียร พร้อมเรียนรู้เทคโนโลยีใหม่อยู่เสมอ
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<!-- 4. คลังแสงอาวุธเทคโนโลยี (CYBER ARSENAL) -->
 <div align="center">
   <h3>⚡ CORE ARSENAL & WEAPONRY</h3>
   <p><i>"เลือกใช้เครื่องมือที่เหมาะสมที่สุด เพื่อสร้างผลลัพธ์ที่เหนือกว่า"</i></p>
@@ -44,7 +72,7 @@
 <br/>
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 4. ศูนย์บัญชาการสถิติโฮโลแกรม 3 มิติ (HOLOGRAPHIC TELEMETRY) -->
+<!-- 5. ศูนย์บัญชาการสถิติโฮโลแกรม 3 มิติ (HOLOGRAPHIC TELEMETRY) -->
 <div align="center">
   <h3>🔮 HOLOGRAPHIC TELEMETRY & COMBAT STATS</h3>
 
@@ -53,7 +81,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=thanadonint255099&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
   </p>
 
-  <!-- กราฟความเคลื่อนไหวแบบ Area Chart -->
+  <!-- ตารางสถิติ 3 มิติ (3D Isometric Contribution Calendar) -->
   <p>
     <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanadonint255099&bg_color=020617&color=38BDF8&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20WAVEFORM" />
   </p>
@@ -70,7 +98,7 @@
   </p>
 </div>
 
-<!-- 5. แบนเนอร์ปิดท้ายแบบคลื่นพลังงาน (ENERGY WAVE FOOTER) -->
+<!-- 6. แบนเนอร์ปิดท้ายแบบคลื่นพลังงาน (ENERGY WAVE FOOTER) -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:4F46E5,70:1E1B4B,100:020617&height=150&section=footer&text=END%20OF%20TRANSMISSION&fontSize=20&fontColor=38BDF8&fontAlignY=75" />
 </div>
