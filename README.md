@@ -29,33 +29,7 @@
 <!-- เส้นแสงเลเซอร์วิ่งแบ่งโซน -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 3. หน้าต่างจำลองระบบปฏิบัติการ (SYSTEM SPEC / NEOFETCH TERMINAL) -->
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🖥️ <code>root@thanadon-system:~$ neofetch</code></h3>
-      <pre lang="yaml">
-OS:          ThanadonOS v2026.11 (64-bit)
-Host:        Thailand 🇹🇭 [UTC+7]
-Kernel:      Full-Stack & AI Engineering
-Uptime:      24/7 Caffeine-Powered ☕
-Shell:       zsh / TypeScript / Python
-Resolution:  Pixel-Perfect UI & Clean Architecture
-Status:      [ONLINE] Ready for Next-Gen Missions
-      </pre>
-      <p>
-        💠 <b>Mission Directive:</b> เปลี่ยนไอเดียที่ซับซ้อนให้กลายเป็นระบบที่ทรงพลัง รวดเร็ว และเสถียร พร้อมเรียนรู้เทคโนโลยีใหม่อยู่เสมอ
-      </p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- 4. คลังแสงอาวุธเทคโนโลยี (CYBER ARSENAL) -->
+<!-- 3. คลังแสงอาวุธเทคโนโลยี (CYBER ARSENAL) -->
 <div align="center">
   <h3>⚡ CORE ARSENAL & WEAPONRY</h3>
   <p><i>"เลือกใช้เครื่องมือที่เหมาะสมที่สุด เพื่อสร้างผลลัพธ์ที่เหนือกว่า"</i></p>
@@ -70,7 +44,7 @@ Status:      [ONLINE] Ready for Next-Gen Missions
 <br/>
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 5. ศูนย์บัญชาการสถิติโฮโลแกรม 3 มิติ (HOLOGRAPHIC TELEMETRY) -->
+<!-- 4. ศูนย์บัญชาการสถิติโฮโลแกรม 3 มิติ (HOLOGRAPHIC TELEMETRY) -->
 <div align="center">
   <h3>🔮 HOLOGRAPHIC TELEMETRY & COMBAT STATS</h3>
 
@@ -79,7 +53,7 @@ Status:      [ONLINE] Ready for Next-Gen Missions
     <img src="https://github-profile-trophy.vercel.app/?username=thanadonint255099&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
   </p>
 
-  <!-- ตารางสถิติ 3 มิติ (3D Isometric Contribution Calendar) -->
+  <!-- กราฟความเคลื่อนไหวแบบ Area Chart -->
   <p>
     <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanadonint255099&bg_color=020617&color=38BDF8&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20WAVEFORM" />
   </p>
@@ -96,7 +70,9 @@ Status:      [ONLINE] Ready for Next-Gen Missions
   </p>
 </div>
 
-<!-- 6. แบนเนอร์ปิดท้ายแบบคลื่นพลังงาน (ENERGY WAVE FOOTER) -->
+<!-- 5. แบนเนอร์ปิดท้ายแบบคลื่นพลังงาน (ENERGY WAVE FOOTER) -->
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:4F46E5,70:1E1B4B,100:020617&height=150&section=footer&text=END%20OF%20TRANSMISSION&fontSize=20&fontColor=38BDF8&fontAlignY=75" />
+</div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:4F46E5,70:1E1B4B,100:020617&height=150&section=footer&text=END%20OF%20TRANSMISSION&fontSize=20&fontColor=38BDF8&fontAlignY=75" />
 </div>
