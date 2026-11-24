@@ -1,67 +1,105 @@
-<!-- 1. แบนเนอร์ข้อความพิมพ์ดีดขยับได้ -->
+<!-- 1. แบนเนอร์คลื่นอนิเมชันส่วนบน (Wave Header) -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:3B82F6,100:8B5CF6&height=220&section=header&text=WELCOME%20TO%20MY%20SPACE&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Innovate&descAlignY=60&descSize=18" />
+</div>
+
+<!-- 2. ตัวหนังสือพิมพ์ดีดขยับได้ (Typing SVG) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+%5B%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%5D+%F0%9F%91%8B;Full-Stack+Developer+%7C+Problem+Solver;Passionate+about+Clean+Code+%26+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+%5B%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%5D+%F0%9F%91%8B;Full-Stack+Developer+%7C+Tech+Enthusiast;Turning+Coffee+Into+Scalable+Code+%E2%98%95" alt="Typing SVG" />
   </a>
 
-  <!-- ปุ่มโซเชียล -->
+  <!-- ปุ่มโซเชียลและยอดผู้เข้าชมโปรไฟล์ -->
   <p>
     <a href="ลิงก์-LinkedIn-ของคุณ">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="ลิงก์-Portfolio-ของคุณ">
-      <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
     <a href="mailto:อีเมลของคุณ@example.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=ใส่-USERNAME-ของคุณ&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 **Currently working on:** [ชื่อโปรเจกต์ที่กำลังทำ]
-- 🌱 **Currently learning:** [เทคโนโลยีที่กำลังศึกษา เช่น Next.js, Docker, Cloud]
-- 💬 **Ask me about:** [เรื่องที่คุณถนัด เช่น Web Development, Python, SQL]
-- ⚡ **Fun fact:** [เรื่องสนุกๆ เกี่ยวกับตัวคุณ เช่น ขับเคลื่อนด้วยกาแฟดำและ Lo-fi beats ☕]
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+<!-- 3. โซนแนะนำตัวคู่กับภาพอนิเมชันโค้ดดิ้ง -->
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <h3>⚡ System.out.println("About Me");</h3>
+      <p>นักพัฒนาซอฟต์แวร์ที่หลงใหลในการสร้างสรรค์เทคโนโลยีสมัยใหม่ ชอบเรียนรู้สิ่งใหม่ๆ และแก้ปัญหาที่ซับซ้อนด้วยโค้ดที่สะอาดและมีประสิทธิภาพ</p>
+      <ul>
+        <li>🔭 <b>Current Project:</b> [ชื่อโปรเจกต์ที่กำลังลุยอยู่]</li>
+        <li>🌱 <b>Leveling Up:</b> [สิ่งที่กำลังเรียน เช่น AI, Cloud, Next.js]</li>
+        <li>💬 <b>Ask Me About:</b> [สิ่งที่ถนัด เช่น Web Dev, Python, API]</li>
+        <li>🎯 <b>2026 Goal:</b> สร้างโปรเจกต์ Open Source ที่ใช้งานได้จริง</li>
+        <li>⚡ <b>Fun Fact:</b> บั๊กมักจะหายไปเองตอนกำลังจะเปิดให้คนอื่นดู 🐛</li>
+      </ul>
+    </td>
+    <td width="38%" align="center">
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Featured Projects
-
-| โปรเจกต์ | รายละเอียด | Tech Stack | ลิงก์ |
-| :--- | :--- | :--- | :--- |
-| **[ชื่อโปรเจกต์ 1]** | คำอธิบายสั้นๆ ว่าโปรเจกต์นี้แก้ปัญหาอะไร | `React` `Node.js` | [Code](ลิงก์-Repo) • [Live Demo](ลิงก์-Demo) |
-| **[ชื่อโปรเจกต์ 2]** | คำอธิบายสั้นๆ ว่าโปรเจกต์นี้ทำอะไรได้บ้าง | `Python` `FastAPI` | [Code](ลิงก์-Repo) |
-
----
-
-### 📊 GitHub Analytics
-
+<!-- 4. คลังแสงเทคโนโลยี (Tech Arsenal) -->
 <div align="center">
-  <!-- กล่องสถิติรวม -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thanadonint255099&show_icons=true&theme=tokyonight&hide_border=true" />
-  <!-- กล่องภาษาที่ใช้บ่อย -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanadonint255099&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
-  <!-- กล่องสถิติการ Commit ต่อเนื่อง (Streak) -->
-  <img src="https://streak-stats.demolab.com?user=thanadonint255099&theme=tokyonight&hide_border=true" />
+  <h3>🛠️ Tech Arsenal & Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs,tailwind,git,github,docker,vscode,figma&perline=7" />
+  </p>
+</div>
+
+---
+
+<!-- 5. ตารางโชว์โปรเจกต์ระดับมาสเตอร์พีซ -->
+<div align="center">
+  <h3>🚀 Featured Masterpieces</h3>
+</div>
+
+| โปรเจกต์ | ไฮไลต์และความสามารถ | Tech Stack | ลิงก์ |
+| :--- | :--- | :--- | :--- |
+| 🔥 **[ชื่อโปรเจกต์ที่ 1]** | ระบบเว็บแอปพลิเคชันแบบ Real-time ช่วยจัดการ... | `Next.js` `TypeScript` `Tailwind` | [🔗 Source Code](ลิงก์-Repo) • [🌐 Live Demo](ลิงก์-Demo) |
+| ⚡ **[ชื่อโปรเจกต์ที่ 2]** | ระบบ API และ AI วิเคราะห์ข้อมูลอัตโนมัติ... | `Python` `FastAPI` `Docker` | [🔗 Source Code](ลิงก์-Repo) |
+| 🎨 **[ชื่อโปรเจกต์ที่ 3]** | แอปพลิเคชัน/เครื่องมือสำหรับ... | `React` `Node.js` | [🔗 Source Code](ลิงก์-Repo) • [🌐 Live Demo](ลิงก์-Demo) |
+
+---
+
+<!-- 6. แดชบอร์ดสถิติการเขียนโค้ดจัดเต็ม -->
+<div align="center">
+  <h3>📊 GitHub Power & Analytics</h3>
+
+  <!-- ถ้วยรางวัล GitHub Trophies -->
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=thanadonint255099&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  </p>
+
+  <!-- กล่องสถิติหลัก + ภาษาที่ใช้บ่อย -->
+  <p>
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=thanadonint255099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanadonint255099&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+  </p>
+
+  <!-- สถิติการ Commit ต่อเนื่อง (Streak) -->
+  <p>
+    <img src="https://streak-stats.demolab.com?user=thanadonint255099&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" />
+  </p>
+
+  <!-- กราฟความเคลื่อนไหวการเขียนโค้ด (Activity Graph) -->
+  <p>
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanadonint255099&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
+  </p>
+</div>
+
+---
+
+<!-- 7. แบนเนอร์คลื่นปิดท้าย (Wave Footer) -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:0F172A&height=120&section=footer" />
 </div>
