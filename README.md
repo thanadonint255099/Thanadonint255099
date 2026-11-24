@@ -63,6 +63,7 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,mongodb,docker,git,github,vscode,figma&perline=6" />
   </a>
 ---
+### 🔮 CYBER ANALYTICS (สถิติการทำงานแบบเรียลไทม์)
 
   <!-- ถ้วยรางวัล GitHub Trophies -->
   <p>
