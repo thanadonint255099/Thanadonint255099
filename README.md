@@ -6,7 +6,7 @@
 <!-- 2. ตัวหนังสือพิมพ์ดีดขยับได้ (Typing SVG) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Thanadon inthon%5B%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%5D+%F0%9F%91%8B;Full-Stack+Developer+%7C+Tech+Enthusiast;Turning+Coffee+Into+Scalable+Code+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Thanadon %5B%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%5D+%F0%9F%91%8B;Full-Stack+Developer+%7C+Tech+Enthusiast;Turning+Coffee+Into+Scalable+Code+%E2%98%95" alt="Typing SVG" />
   </a>
 
   <!-- ปุ่มโซเชียลและยอดผู้เข้าชมโปรไฟล์ -->
