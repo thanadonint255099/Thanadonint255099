@@ -13,9 +13,7 @@
   <p>
     <a href="ลิงก์-LinkedIn-ของคุณ">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="ลิงก์-Portfolio-ของคุณ">
-      <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+    
     </a>
     <a href="mailto:อีเมลของคุณ@example.com">
       <img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white" />
