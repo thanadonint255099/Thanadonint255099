@@ -13,7 +13,6 @@
   <p>
     <a href="ลิงก์-LinkedIn-ของคุณ">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    
     </a>
     <a href="mailto:อีเมลของคุณ@example.com">
       <img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -31,7 +30,6 @@
       <h3>⚡ System.out.println("About Me");</h3>
       <p>นักพัฒนาซอฟต์แวร์ที่หลงใหลในการสร้างสรรค์เทคโนโลยีสมัยใหม่ ชอบเรียนรู้สิ่งใหม่ๆ และแก้ปัญหาที่ซับซ้อนด้วยโค้ดที่สะอาดและมีประสิทธิภาพ</p>
       <ul>
-        <li>🔭 <b>Current Project:</b> [ชื่อโปรเจกต์ที่กำลังลุยอยู่]</li>
         <li>🌱 <b>Leveling Up:</b> [สิ่งที่กำลังเรียน เช่น AI, Cloud, Next.js]</li>
         <li>💬 <b>Ask Me About:</b> [สิ่งที่ถนัด เช่น Web Dev, Python, API]</li>
         <li>🎯 <b>2026 Goal:</b> สร้างโปรเจกต์ Open Source ที่ใช้งานได้จริง</li>
@@ -61,7 +59,7 @@
   <h3>🚀 Featured Masterpieces</h3>
 </div>
 
----
+
 
 <!-- 6. แดชบอร์ดสถิติการเขียนโค้ดจัดเต็ม -->
 <div align="center">
@@ -69,23 +67,23 @@
 
   <!-- ถ้วยรางวัล GitHub Trophies -->
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=thanadonint255099&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ใส่-USERNAME-ของคุณ&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
   </p>
 
   <!-- กล่องสถิติหลัก + ภาษาที่ใช้บ่อย -->
   <p>
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=thanadonint255099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6" />
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanadonint255099&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=ใส่-USERNAME-ของคุณ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ใส่-USERNAME-ของคุณ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
   </p>
 
   <!-- สถิติการ Commit ต่อเนื่อง (Streak) -->
   <p>
-    <img src="https://streak-stats.demolab.com?user=thanadonint255099&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" />
+    <img src="https://streak-stats.demolab.com?user=ใส่-USERNAME-ของคุณ&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" />
   </p>
 
   <!-- กราฟความเคลื่อนไหวการเขียนโค้ด (Activity Graph) -->
   <p>
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanadonint255099&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ใส่-USERNAME-ของคุณ&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
   </p>
 </div>
 
