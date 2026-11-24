@@ -1,6 +1,6 @@
 <!-- 1. แบนเนอร์คลื่นอนิเมชันส่วนบน (Wave Header) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:3B82F6,100:8B5CF6&height=220&section=header&text=THANADON%20TO%20MY%20SPACE&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Innovate&descAlignY=60&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:3B82F6,100:8B5CF6&height=220&section=header&text=THANADON&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Innovate&descAlignY=60&descSize=18" />
 </div>
 
 <!-- 2. ตัวหนังสือพิมพ์ดีดขยับได้ (Typing SVG) -->
@@ -13,9 +13,6 @@
   <p>
     <a href="ลิงก์-LinkedIn-ของคุณ">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="ลิงก์-Portfolio-ของคุณ">
-      <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
     <a href="mailto:อีเมลของคุณ@example.com">
       <img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -63,13 +60,7 @@
   <h3>🚀 Featured Masterpieces</h3>
 </div>
 
-| โปรเจกต์ | ไฮไลต์และความสามารถ | Tech Stack | ลิงก์ |
-| :--- | :--- | :--- | :--- |
-| 🔥 **[ชื่อโปรเจกต์ที่ 1]** | ระบบเว็บแอปพลิเคชันแบบ Real-time ช่วยจัดการ... | `Next.js` `TypeScript` `Tailwind` | [🔗 Source Code](ลิงก์-Repo) • [🌐 Live Demo](ลิงก์-Demo) |
-| ⚡ **[ชื่อโปรเจกต์ที่ 2]** | ระบบ API และ AI วิเคราะห์ข้อมูลอัตโนมัติ... | `Python` `FastAPI` `Docker` | [🔗 Source Code](ลิงก์-Repo) |
-| 🎨 **[ชื่อโปรเจกต์ที่ 3]** | แอปพลิเคชัน/เครื่องมือสำหรับ... | `React` `Node.js` | [🔗 Source Code](ลิงก์-Repo) • [🌐 Live Demo](ลิงก์-Demo) |
 
----
 
 <!-- 6. แดชบอร์ดสถิติการเขียนโค้ดจัดเต็ม -->
 <div align="center">
@@ -77,23 +68,23 @@
 
   <!-- ถ้วยรางวัล GitHub Trophies -->
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=ใส่-USERNAME-ของคุณ&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+    <img src="https://github-profile-trophy.vercel.app/?username=thanadonint255099&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
   </p>
 
   <!-- กล่องสถิติหลัก + ภาษาที่ใช้บ่อย -->
   <p>
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=ใส่-USERNAME-ของคุณ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6" />
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ใส่-USERNAME-ของคุณ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=thanadonint255099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanadonint255099&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
   </p>
 
   <!-- สถิติการ Commit ต่อเนื่อง (Streak) -->
   <p>
-    <img src="https://streak-stats.demolab.com?user=ใส่-USERNAME-ของคุณ&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" />
+    <img src="https://streak-stats.demolab.com?user=thanadonint255099&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" />
   </p>
 
   <!-- กราฟความเคลื่อนไหวการเขียนโค้ด (Activity Graph) -->
   <p>
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ใส่-USERNAME-ของคุณ&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanadonint255099&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
   </p>
 </div>
 
