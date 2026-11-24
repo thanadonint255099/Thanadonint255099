@@ -45,27 +45,6 @@
 ---
 
 
----
-## 🚀 TECH ARSENAL (เครื่องมือและเทคโนโลยี)
-
-<div align="center">
-  
-  **Languages & Core** <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,cpp,sql&perline=7" />
-  </a>
-  
-  <br/><br/>
-  
-  **Frameworks, Cloud & Tools** <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,mongodb,docker,git,github,vscode,figma&perline=6" />
-  </a>
-
-</div>
-
----
-
 <!-- 6. แดชบอร์ดสถิติการเขียนโค้ดจัดเต็ม -->
 <div align="center">
  ## 🚀 TECH ARSENAL (เครื่องมือและเทคโนโลยี)
