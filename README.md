@@ -17,7 +17,7 @@
     <a href="mailto:thanadon.int@ku.th">
       <img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=ใส่-USERNAME-ของคุณ&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=thanadonint255099&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
 
