@@ -1,6 +1,6 @@
 <!-- 1. แบนเนอร์คลื่นอนิเมชันส่วนบน (Wave Header) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:3B82F6,100:8B5CF6&height=220&section=header&text=WELCOME%20TO%20MY%20SPACE&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Innovate&descAlignY=60&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:3B82F6,100:8B5CF6&height=220&section=header&text=THANADON%20DEV&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Innovate&descAlignY=60&descSize=18" />
 </div>
 
 <!-- 2. ตัวหนังสือพิมพ์ดีดขยับได้ (Typing SVG) -->
@@ -14,7 +14,7 @@
     <a href="ลิงก์-LinkedIn-ของคุณ">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:อีเมลของคุณ@example.com">
+    <a href="mailto:thanadon.int@ku.th">
       <img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=Thanadonint255099&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views" />
@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td width="62%" valign="top">
-      <h3>⚡ System.out.println("Thanadon inthon");</h3>
+      <h3>⚡ System.out.println("About Me");</h3>
       <p>นักพัฒนาซอฟต์แวร์ที่หลงใหลในการสร้างสรรค์เทคโนโลยีสมัยใหม่ ชอบเรียนรู้สิ่งใหม่ๆ และแก้ปัญหาที่ซับซ้อนด้วยโค้ดที่สะอาดและมีประสิทธิภาพ</p>
       <ul>
         <li>🌱 <b>Leveling Up:</b> [ AI, Cloud, Next.js]</li>
