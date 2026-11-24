@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td width="62%" valign="top">
-      <h3>⚡ System.out.println("About Me");</h3>
+      <h3>⚡ System.out.println("Thanadon inthon");</h3>
       <p>นักพัฒนาซอฟต์แวร์ที่หลงใหลในการสร้างสรรค์เทคโนโลยีสมัยใหม่ ชอบเรียนรู้สิ่งใหม่ๆ และแก้ปัญหาที่ซับซ้อนด้วยโค้ดที่สะอาดและมีประสิทธิภาพ</p>
       <ul>
         <li>🌱 <b>Leveling Up:</b> [ AI, Cloud, Next.js]</li>
