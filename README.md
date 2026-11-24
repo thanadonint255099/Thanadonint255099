@@ -11,7 +11,7 @@
 
   <!-- ปุ่มโซเชียลและยอดผู้เข้าชมโปรไฟล์ -->
   <p>
-    <a href="ลิงก์-LinkedIn-ของคุณ">
+    <a href="Thanadon inthon">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:thanadon.int@ku.th">
