@@ -14,7 +14,7 @@
     <a href="ลิงก์-LinkedIn-ของคุณ">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:อีเมลของคุณ@example.com">
+    <a href="mailto:thanadon.int@ku.th">
       <img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=ใส่-USERNAME-ของคุณ&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views" />
