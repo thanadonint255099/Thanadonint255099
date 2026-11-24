@@ -47,7 +47,7 @@
 
 <!-- 6. แดชบอร์ดสถิติการเขียนโค้ดจัดเต็ม -->
 <div align="center">
- ## 🚀 TECH ARSENAL (เครื่องมือและเทคโนโลยี)
+## 🚀 TECH ARSENAL (เครื่องมือและเทคโนโลยี)
 
 <div align="center">
   
@@ -62,9 +62,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,mongodb,docker,git,github,vscode,figma&perline=6" />
   </a>
-
-</div>
-
 ---
 
   <!-- ถ้วยรางวัล GitHub Trophies -->
