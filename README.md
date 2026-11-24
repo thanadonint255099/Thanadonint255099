@@ -29,7 +29,42 @@
 <!-- เส้นแสงเลเซอร์วิ่งแบ่งโซน -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 3. คลังแสงอาวุธเทคโนโลยี (CYBER ARSENAL) -->
+<!-- 3. หน้าต่างจำลองระบบปฏิบัติการ (SYSTEM SPEC / NEOFETCH TERMINAL) -->
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>💠 <code>~/thanadon/profile.json</code></h3>
+      <pre lang="json">
+{
+  "name": "Thanadon Inthon",
+  "location": "Thailand 🇹🇭",
+  "focus": ["Full-Stack Web", "System Architecture", "AI"],
+  "currentlyWorkingOn": "[ชื่อโปรเจกต์ปัจจุบัน]",
+  "currentlyLearning": "[สิ่งที่กำลังศึกษา เช่น Next.js, Cloud]",
+  "openTo": "Collaborations & Exciting Opportunities"
+}
+      </pre>
+      <p>
+        ⚡ <b>Core Philosophy:</b> เขียนโค้ดให้คนอ่านเข้าใจง่าย ไม่ใช่แค่ให้เครื่องรันผ่าน และเปลี่ยนไอเดียที่ซับซ้อนให้กลายเป็นประสบการณ์ใช้งานที่ลื่นไหล
+      </p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/1.gif" width="95%" />
+    </td>
+  </tr>
+</table>
+        💠 <b>Mission Directive:</b> เปลี่ยนไอเดียที่ซับซ้อนให้กลายเป็นระบบที่ทรงพลัง รวดเร็ว และเสถียร พร้อมเรียนรู้เทคโนโลยีใหม่อยู่เสมอ
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- 4. คลังแสงอาวุธเทคโนโลยี (CYBER ARSENAL) -->
 <div align="center">
   <h3>⚡ CORE ARSENAL & WEAPONRY</h3>
   <p><i>"เลือกใช้เครื่องมือที่เหมาะสมที่สุด เพื่อสร้างผลลัพธ์ที่เหนือกว่า"</i></p>
@@ -44,7 +79,7 @@
 <br/>
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 4. ศูนย์บัญชาการสถิติโฮโลแกรม 3 มิติ (HOLOGRAPHIC TELEMETRY) -->
+<!-- 5. ศูนย์บัญชาการสถิติโฮโลแกรม 3 มิติ (HOLOGRAPHIC TELEMETRY) -->
 <div align="center">
   <h3>🔮 HOLOGRAPHIC TELEMETRY & COMBAT STATS</h3>
 
@@ -53,7 +88,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=thanadonint255099&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
   </p>
 
-  <!-- กราฟความเคลื่อนไหวแบบ Area Chart -->
+  <!-- ตารางสถิติ 3 มิติ (3D Isometric Contribution Calendar) -->
   <p>
     <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanadonint255099&bg_color=020617&color=38BDF8&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20WAVEFORM" />
   </p>
@@ -70,9 +105,7 @@
   </p>
 </div>
 
-<!-- 5. แบนเนอร์ปิดท้ายแบบคลื่นพลังงาน (ENERGY WAVE FOOTER) -->
+<!-- 6. แบนเนอร์ปิดท้ายแบบคลื่นพลังงาน (ENERGY WAVE FOOTER) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:4F46E5,70:1E1B4B,100:020617&height=150&section=footer&text=END%20OF%20TRANSMISSION&fontSize=20&fontColor=38BDF8&fontAlignY=75" />
-</div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:4F46E5,70:1E1B4B,100:020617&height=150&section=footer&text=END%20OF%20TRANSMISSION&fontSize=20&fontColor=38BDF8&fontAlignY=75" />
 </div>
