@@ -1,113 +1,110 @@
-<!-- 1. แบนเนอร์เปิดหัวระดับเทพ (GOD-TIER CYBER HEADER) -->
+<!-- ===================================================================== -->
+<!-- 1. HERO BANNER : แบนเนอร์คลื่นแสงไล่เฉดสีระดับพรีเมียม                 -->
+<!-- ===================================================================== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:1E1B4B,65:4F46E5,100:06B6D4&height=280&section=header&text=THANADON%20INTHON&fontSize=58&fontColor=FFFFFF&animation=scaleIn&fontAlignY=38&desc=%E2%9A%A1%20SYSTEM%20ARCHITECT%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20CYBER%20CREATOR%20%E2%9A%A1&descAlignY=62&descSize=16&descColor=38BDF8" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:3B82F6,100:06B6D4&height=260&section=header&text=THANADON%20INTHON&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20SYSTEM%20ARCHITECT%20%E2%80%A2%20CREATOR&descAlignY=62&descSize=15&descColor=38BDF8" />
 </div>
 
-<!-- 2. แผงควบคุมตัวหนังสือวิ่ง + ป้ายสถานะเรืองแสง -->
+<!-- ===================================================================== -->
+<!-- 2. DYNAMIC IDENTITY & HUD NAVIGATION : ตัวอักษรวิ่งและปุ่มโซเชียลสมมาตร -->
+<!-- ===================================================================== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=%5BROOT%40THANADON%5D%3A~%24+.%2Finitialize_portfolio.sh;%3E%3E+Crafting+High-Performance+Digital+Experiences;%3E%3E+Clean+Code+%E2%80%A2+Scalable+Systems+%E2%80%A2+Future+Tech+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+Clean%2C+Scalable+%26+High-Performance+Software;Turning+Complex+Problems+Into+Elegant+Code+%E2%9A%A1;Welcome+to+My+Digital+Workspace+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- แถบปุ่มโซเชียลสไตล์ Cyberpunk HUD -->
+  <!-- แถบปุ่มโซเชียลจัดเรียงขนาดเท่ากันเป๊ะ -->
   <p>
     <a href="ลิงก์-LinkedIn-ของคุณ">
-      <img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0F172A" />
+      <img height="32" src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
     </a>
+    &nbsp;
     <a href="ลิงก์-Portfolio-ของคุณ">
-      <img src="https://img.shields.io/badge/PORTFOLIO-020617?style=for-the-badge&logo=vercel&logoColor=A855F7&labelColor=0F172A" />
+      <img height="32" src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
     </a>
+    &nbsp;
     <a href="mailto:อีเมลของคุณ@example.com">
-      <img src="https://img.shields.io/badge/TRANSMIT_EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=F43F5E&labelColor=0F172A" />
+      <img height="32" src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=thanadonint255099&label=NEURAL_LINKS&color=06B6D4&style=for-the-badge&labelColor=0F172A" alt="Profile Views" />
+    &nbsp;
+    <img height="32" src="https://komarev.com/ghpvc/?username=thanadonint255099&label=VIEWS&color=06B6D4&style=for-the-badge&labelColor=0F172A" alt="Profile Views" />
   </p>
-</div>
-
-<!-- เส้นแสงเลเซอร์วิ่งแบ่งโซน -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- 3. หน้าต่างจำลองระบบปฏิบัติการ (SYSTEM SPEC / NEOFETCH TERMINAL) -->
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <h3>⚡ System.out.println("About Me");</h3>
-      <p>นักพัฒนาซอฟต์แวร์ที่หลงใหลในการสร้างสรรค์เทคโนโลยีสมัยใหม่ ชอบเรียนรู้สิ่งใหม่ๆ และแก้ปัญหาที่ซับซ้อนด้วยโค้ดที่สะอาดและมีประสิทธิภาพ</p>
-      <ul>
-        <li>🌱 <b>Leveling Up:</b> [สิ่งที่กำลังเรียน เช่น AI, Cloud, Next.js]</li>
-        <li>💬 <b>Ask Me About:</b> [สิ่งที่ถนัด เช่น Web Dev, Python, API]</li>
-        <li>🎯 <b>2026 Goal:</b> สร้างโปรเจกต์ Open Source ที่ใช้งานได้จริง</li>
-        <li>⚡ <b>Fun Fact:</b> บั๊กมักจะหายไปเองตอนกำลังจะเปิดให้คนอื่นดู 🐛</li>
-      </ul>
-    </td>
-    <td width="38%" align="center">
-      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />
-    </td>
-  </tr>
-</table>
-        ⚡ <b>Core Philosophy:</b> เขียนโค้ดให้คนอ่านเข้าใจง่าย ไม่ใช่แค่ให้เครื่องรันผ่าน และเปลี่ยนไอเดียที่ซับซ้อนให้กลายเป็นประสบการณ์ใช้งานที่ลื่นไหล
-      </p>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/1.gif" width="95%" />
-    </td>
-  </tr>
-</table>
-        💠 <b>Mission Directive:</b> เปลี่ยนไอเดียที่ซับซ้อนให้กลายเป็นระบบที่ทรงพลัง รวดเร็ว และเสถียร พร้อมเรียนรู้เทคโนโลยีใหม่อยู่เสมอ
-      </p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- 4. คลังแสงอาวุธเทคโนโลยี (CYBER ARSENAL) -->
-<div align="center">
-  <h3>⚡ CORE ARSENAL & WEAPONRY</h3>
-  <p><i>"เลือกใช้เครื่องมือที่เหมาะสมที่สุด เพื่อสร้างผลลัพธ์ที่เหนือกว่า"</i></p>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,tailwind&perline=8" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,postgres,mongodb,redis&perline=8" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman,figma,aws&perline=8" />
 </div>
 
 <br/>
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
-<!-- 5. ศูนย์บัญชาการสถิติโฮโลแกรม 3 มิติ (HOLOGRAPHIC TELEMETRY) -->
+<!-- ===================================================================== -->
+<!-- 3. TECH ECOSYSTEM : ตารางจัดหมวดหมู่สกิล 3 คอลัมน์สมมาตรไร้ที่ติ       -->
+<!-- ===================================================================== -->
 <div align="center">
-  <h3>🔮 HOLOGRAPHIC TELEMETRY & COMBAT STATS</h3>
+  <h3>⚡ TECH STACK & ARCHITECTURE</h3>
+  <p><i>Structured Engineering Ecosystem</i></p>
+  <br/>
 
-  <!-- แถวถ้วยรางวัลระดับสูง -->
+  <table>
+    <tr>
+      <th width="33%" align="center">🎨 Frontend & Languages</th>
+      <th width="33%" align="center">⚙️ Backend & Databases</th>
+      <th width="33%" align="center">🛠️ DevOps & Cloud Tools</th>
+    </tr>
+    <tr>
+      <td align="center" height="120">
+        <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nextjs,tailwind&perline=3" />
+      </td>
+      <td align="center" height="120">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,mysql,redis,firebase,graphql&perline=3" />
+      </td>
+      <td align="center" height="120">
+        <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman,figma,aws,vercel&perline=3" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+
+<!-- ===================================================================== -->
+<!-- 4. ANALYTICS COMMAND CENTER : แดชบอร์ดสถิติเรียงสัดส่วนทองคำ (Golden Grid) -->
+<!-- ===================================================================== -->
+<div align="center">
+  <h3>📊 TELEMETRY & CODE METRICS</h3>
+  <p><i>Real-Time GitHub Performance & Contributions</i></p>
+  <br/>
+
+  <!-- แถวที่ 1: ถ้วยรางวัลเรียงกึ่งกลาง -->
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=thanadonint255099&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+    <img src="https://github-profile-trophy.vercel.app/?username=thanadonint255099&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" />
   </p>
 
-  <!-- ตารางสถิติ 3 มิติ (3D Isometric Contribution Calendar) -->
+  <!-- แถวที่ 2: กล่องสถิติคู่ซ้าย-ขวาความสูงเท่ากันเป๊ะ -->
   <p>
-    <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanadonint255099&bg_color=020617&color=38BDF8&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20WAVEFORM" />
+    <img height="185" src="https://github-readme-stats.vercel.app/api?username=thanadonint255099&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=06B6D4&text_color=E2E8F0&ring_color=38BDF8" />
+    &nbsp;&nbsp;
+    <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanadonint255099&layout=donut&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0" />
   </p>
 
-  <!-- กล่องพลังการเขียนโค้ดคู่กัน -->
+  <!-- แถวที่ 3: สถิติ Streak กึ่งกลาง -->
   <p>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=thanadonint255099&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=A855F7&text_color=E2E8F0&ring_color=06B6D4" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanadonint255099&layout=donut&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0" />
+    <img src="https://streak-stats.demolab.com?user=thanadonint255099&hide_border=true&background=020617&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
   </p>
 
-  <!-- สถิติไฟลุกต่อเนื่อง (Streak Stats) -->
+  <!-- แถวที่ 4: กราฟคลื่นการเขียนโค้ดเต็มความกว้าง -->
   <p>
-    <img src="https://streak-stats.demolab.com?user=thanadonint255099&hide_border=true&background=020617&ring=A855F7&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
+    <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanadonint255099&bg_color=020617&color=38BDF8&line=06B6D4&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY%20WAVEFORM" />
   </p>
 </div>
 
-<!-- 6. แบนเนอร์ปิดท้ายแบบคลื่นพลังงาน (ENERGY WAVE FOOTER) -->
+<br/>
+
+<!-- ===================================================================== -->
+<!-- 5. SYMMETRIC FOOTER : คลื่นปิดท้ายสมมาตรรับกับแบนเนอร์ด้านบน           -->
+<!-- ===================================================================== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:4F46E5,70:1E1B4B,100:020617&height=150&section=footer&text=END%20OF%20TRANSMISSION&fontSize=20&fontColor=38BDF8&fontAlignY=75" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,30:3B82F6,65:0F172A,100:020617&height=140&section=footer" />
 </div>
