@@ -44,13 +44,6 @@
 
 ---
 
-<!-- 4. คลังแสงเทคโนโลยี (Tech Arsenal) -->
-<div align="center">
-  <h3>🛠️ Tech Arsenal & Tools</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs,tailwind,git,github,docker,vscode,figma&perline=7" />
-  </p>
-</div>
 
 ---
 ## 🚀 TECH ARSENAL (เครื่องมือและเทคโนโลยี)
