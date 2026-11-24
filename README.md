@@ -1,6 +1,6 @@
 <!-- 1. แบนเนอร์คลื่นอนิเมชันส่วนบน (Wave Header) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:3B82F6,100:8B5CF6&height=220&section=header&text=WELCOME%20TO%20MY%20SPACE&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Innovate&descAlignY=60&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:3B82F6,100:8B5CF6&height=220&section=header&text=THANADON%20TO%20MY%20SPACE&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Innovate&descAlignY=60&descSize=18" />
 </div>
 
 <!-- 2. ตัวหนังสือพิมพ์ดีดขยับได้ (Typing SVG) -->
