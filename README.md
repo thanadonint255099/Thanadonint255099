@@ -56,7 +56,6 @@
 
 <!-- 5. ตารางโชว์โปรเจกต์ระดับมาสเตอร์พีซ -->
 <div align="center">
-  <h3>🚀 Featured Masterpieces</h3>
 </div>
 
 
