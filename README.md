@@ -1,94 +1,96 @@
-<!-- 1. แบนเนอร์คลื่นอนิเมชันส่วนบน (Wave Header) -->
+<!-- 1. แบนเนอร์ไซเบอร์แบบเคลื่อนไหว (Animated Cyber Banner) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:3B82F6,100:8B5CF6&height=220&section=header&text=THANADON&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Innovate&descAlignY=60&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:090D16,45:1E1B4B,80:4F46E5,100:06B6D4&height=260&section=header&text=THANADON%20INTHON&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=42&desc=ARCHITECTING%20THE%20FUTURE%20WITH%20CODE&descAlignY=65&descSize=16&descColor=38BDF8" />
 </div>
 
-<!-- 2. ตัวหนังสือพิมพ์ดีดขยับได้ (Typing SVG) -->
+<!-- 2. แถบตัวหนังสือพิมพ์ดีดคู่กับปุ่มโซเชียล -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Thanadon+Inthon+%F0%9F%91%8B;Full-Stack+Developer+%7C+Tech+Enthusiast;Turning+Coffee+Into+Scalable+Code+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=800&color=06B6D4&center=true&vCenter=true&width=750&lines=%3E_whoami+%3A+Thanadon+Inthon;%3E_role+%3A+Full-Stack+Developer+%26+Innovator;%3E_status+%3A+Building+Next-Gen+Applications+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
-  <!-- ปุ่มโซเชียลและยอดผู้เข้าชมโปรไฟล์ -->
   <p>
     <a href="ลิงก์-LinkedIn-ของคุณ">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:thanadon.int@ku.th">
-      <img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="ลิงก์-Portfolio-ของคุณ">
+      <img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=090D16" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=thanadonint255099&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+    <a href="mailto:อีเมลของคุณ@example.com">
+      <img src="https://img.shields.io/badge/CONTACT-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=thanadonint255099&label=VISITORS&color=090D16&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 3. โซนแนะนำตัวคู่กับภาพอนิเมชันโค้ดดิ้ง -->
+<!-- 3. โซนแนะนำตัวสไตล์ Terminal + การ์ดอนิเมชัน -->
 <table>
   <tr>
-    <td width="62%" valign="top">
-      <h3>⚡ System.out.println("About Me");</h3>
-      <p>นักพัฒนาซอฟต์แวร์ที่หลงใหลในการสร้างสรรค์เทคโนโลยีสมัยใหม่ ชอบเรียนรู้สิ่งใหม่ๆ และแก้ปัญหาที่ซับซ้อนด้วยโค้ดที่สะอาดและมีประสิทธิภาพ</p>
-      <ul>
-        <li>🌱 <b>Leveling Up:</b> [AI, Cloud, Next.js]</li>
-        <li>💬 <b>Ask Me About:</b> [Web Dev, Python, API]</li>
-        <li>🎯 <b>2026 Goal:</b> สร้างโปรเจกต์ Open Source ที่ใช้งานได้จริง</li>
-        <li>⚡ <b>Fun Fact:</b> บั๊กมักจะหายไปเองตอนกำลังจะเปิดให้คนอื่นดู 🐛</li>
-      </ul>
+    <td width="58%" valign="top">
+      <h3>💠 <code>~/thanadon/profile.json</code></h3>
+      <pre lang="json">
+{
+  "name": "Thanadon Inthon",
+  "location": "Thailand 🇹🇭",
+  "focus": ["Full-Stack Web", "System Architecture", "AI"],
+  "currentlyWorkingOn": "[ชื่อโปรเจกต์ปัจจุบัน]",
+  "currentlyLearning": "[สิ่งที่กำลังศึกษา เช่น Next.js, Cloud]",
+  "openTo": "Collaborations & Exciting Opportunities"
+}
+      </pre>
+      <p>
+        ⚡ <b>Core Philosophy:</b> เขียนโค้ดให้คนอ่านเข้าใจง่าย ไม่ใช่แค่ให้เครื่องรันผ่าน และเปลี่ยนไอเดียที่ซับซ้อนให้กลายเป็นประสบการณ์ใช้งานที่ลื่นไหล
+      </p>
     </td>
-    <td width="38%" align="center">
-      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />
+    <td width="42%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/1.gif" width="95%" />
     </td>
   </tr>
 </table>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<!-- 6. แดชบอร์ดสถิติการเขียนโค้ดจัดเต็ม -->
+<!-- 4. คลังแสงเทคโนโลยีจัดหมวดหมู่แบบสมมาตร -->
 <div align="center">
-## 🚀 TECH ARSENAL 
-<div align="center">
-  
-  **Languages & Core** <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,cpp,sql&perline=7" />
-  </a>
-  
+  <h3>⚡ TECH STACK & ECOSYSTEM</h3>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nextjs&perline=8" />
   <br/><br/>
-  
-  **Frameworks, Cloud & Tools** <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,mongodb,docker,git,github,vscode,figma&perline=6" />
-  </a>
----
-### 🔮 CYBER ANALYTICS 
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,tailwind,postgres,mongodb,docker,git&perline=8" />
+</div>
 
-  <!-- ถ้วยรางวัล GitHub Trophies -->
+<br/>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- 5. แดชบอร์ดสถิติโทนสีเข้าชุดกันทั้งหมด (Unified Cyber Palette) -->
+<div align="center">
+  <h3>📊 TELEMETRY & CODE METRICS</h3>
+
+  <!-- ถ้วยรางวัล -->
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=thanadonint255099&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+    <img src="https://github-profile-trophy.vercel.app/?username=thanadonint255099&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
   </p>
 
-  <!-- กล่องสถิติหลัก + ภาษาที่ใช้บ่อย -->
+  <!-- สถิติรวม + ภาษาที่ใช้บ่อย -->
   <p>
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=thanadonint255099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6" />
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanadonint255099&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=thanadonint255099&show_icons=true&hide_border=true&bg_color=090D16&title_color=06B6D4&icon_color=6366F1&text_color=E2E8F0" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanadonint255099&layout=compact&hide_border=true&bg_color=090D16&title_color=06B6D4&text_color=E2E8F0" />
   </p>
 
-  <!-- สถิติการ Commit ต่อเนื่อง (Streak) -->
+  <!-- สถิติ Streak -->
   <p>
-    <img src="https://streak-stats.demolab.com?user=thanadonint255099&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" />
+    <img src="https://streak-stats.demolab.com?user=thanadonint255099&hide_border=true&background=090D16&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF" />
   </p>
 
-  <!-- กราฟความเคลื่อนไหวการเขียนโค้ด (Activity Graph) -->
+  <!-- กราฟความเคลื่อนไหวแบบ Area Chart -->
   <p>
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanadonint255099&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
+    <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanadonint255099&bg_color=090D16&color=06B6D4&line=6366F1&point=FFFFFF&area=true&hide_border=true" />
   </p>
 </div>
 
----
-
-<!-- 7. แบนเนอร์คลื่นปิดท้าย (Wave Footer) -->
+<!-- 6. แบนเนอร์ปิดท้ายแบบสมมาตร -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:0F172A&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:06B6D4,20:4F46E5,55:1E1B4B,100:090D16&height=130&section=footer" />
 </div>
