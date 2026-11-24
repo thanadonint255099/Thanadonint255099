@@ -48,14 +48,8 @@
     </td>
   </tr>
 </table>
-        💠 <b>Mission Directive:</b> เปลี่ยนไอเดียที่ซับซ้อนให้กลายเป็นระบบที่ทรงพลัง รวดเร็ว และเสถียร พร้อมเรียนรู้เทคโนโลยีใหม่อยู่เสมอ
-      </p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-    </td>
-  </tr>
-</table>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- 4. คลังแสงอาวุธเทคโนโลยี (CYBER ARSENAL) -->
 <div align="center">
