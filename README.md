@@ -32,19 +32,21 @@
 <!-- 3. หน้าต่างจำลองระบบปฏิบัติการ (SYSTEM SPEC / NEOFETCH TERMINAL) -->
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <h3>💠 <code>~/thanadon/profile.json</code></h3>
-      <pre lang="json">
-{
-  "name": "Thanadon Inthon",
-  "location": "Thailand 🇹🇭",
-  "focus": ["Full-Stack Web", "System Architecture", "AI"],
-  "currentlyWorkingOn": "[ชื่อโปรเจกต์ปัจจุบัน]",
-  "currentlyLearning": "[สิ่งที่กำลังศึกษา เช่น Next.js, Cloud]",
-  "openTo": "Collaborations & Exciting Opportunities"
-}
-      </pre>
-      <p>
+    <td width="62%" valign="top">
+      <h3>⚡ System.out.println("About Me");</h3>
+      <p>นักพัฒนาซอฟต์แวร์ที่หลงใหลในการสร้างสรรค์เทคโนโลยีสมัยใหม่ ชอบเรียนรู้สิ่งใหม่ๆ และแก้ปัญหาที่ซับซ้อนด้วยโค้ดที่สะอาดและมีประสิทธิภาพ</p>
+      <ul>
+        <li>🌱 <b>Leveling Up:</b> [สิ่งที่กำลังเรียน เช่น AI, Cloud, Next.js]</li>
+        <li>💬 <b>Ask Me About:</b> [สิ่งที่ถนัด เช่น Web Dev, Python, API]</li>
+        <li>🎯 <b>2026 Goal:</b> สร้างโปรเจกต์ Open Source ที่ใช้งานได้จริง</li>
+        <li>⚡ <b>Fun Fact:</b> บั๊กมักจะหายไปเองตอนกำลังจะเปิดให้คนอื่นดู 🐛</li>
+      </ul>
+    </td>
+    <td width="38%" align="center">
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />
+    </td>
+  </tr>
+</table>
         ⚡ <b>Core Philosophy:</b> เขียนโค้ดให้คนอ่านเข้าใจง่าย ไม่ใช่แค่ให้เครื่องรันผ่าน และเปลี่ยนไอเดียที่ซับซ้อนให้กลายเป็นประสบการณ์ใช้งานที่ลื่นไหล
       </p>
     </td>
