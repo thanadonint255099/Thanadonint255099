@@ -53,7 +53,25 @@
 </div>
 
 ---
+## 🚀 TECH ARSENAL (เครื่องมือและเทคโนโลยี)
 
+<div align="center">
+  
+  **Languages & Core** <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,cpp,sql&perline=7" />
+  </a>
+  
+  <br/><br/>
+  
+  **Frameworks, Cloud & Tools** <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,mongodb,docker,git,github,vscode,figma&perline=6" />
+  </a>
+
+</div>
+
+---
 <!-- 5. ตารางโชว์โปรเจกต์ระดับมาสเตอร์พีซ -->
 <div align="center">
 </div>
